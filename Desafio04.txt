@@ -18,4 +18,5 @@ d) 4, 16, 36, 64, 100
     Sequência formada pelo quadrado dos números pares em ordem crescente
 e) 1, 1, 2, 3, 5, 8, 13
     Sequência formada pela soma dos dois termos anteriores(Fibonacci)
-f) 2,10, 12, 16, 17, 18, 19, ____
+f) 2,10, 12, 16, 17, 18, 19, 20
+    Sequência há um padrão de acréscimos de 8, 2, 4, 1, 1, 1, portanto é uma soma alternada
